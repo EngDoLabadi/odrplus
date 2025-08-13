@@ -20,7 +20,6 @@ It includes **subquestion generation**, **analysis & planning**, and **structure
 src/app/api/chat/route.ts       # Enhanced ODR route (drop-in replacement)
 experiments/browsecomp/
 ├── stratified_sampler.py       # Creates 60-question stratified dataset
-└── questions.json              # Exact question set used in paper
 requirements.txt                # Python dependencies
 .gitignore
 LICENSE
